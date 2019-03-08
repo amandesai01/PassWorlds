@@ -78,7 +78,7 @@
 
 - [@nurdtechie98](https://github.com/nurdtechie98)
 - [@shivam1708](https://github.com/shivam1708)
-- [@freelancer-98](https://github.com/Freelancer-98)
+- [@nilshah98](https://github.com/nilshah98)
 
 -------------------------------------------
 ### Recognition
